@@ -1,0 +1,30 @@
+{
+	"es.relaybit.top" : {
+		"totalUploadBytes" : 64109686,
+		"totalDownloadBytes" : 488434901
+	},
+	"em.relaybit.top" : {
+		"totalUploadBytes" : 59189299,
+		"totalDownloadBytes" : 390363142
+	},
+	"sp.relaybit.top" : {
+		"totalUploadBytes" : 43423446,
+		"totalDownloadBytes" : 216637793
+	},
+	"45.89.228.102" : {
+		"totalUploadBytes" : 120509,
+		"totalDownloadBytes" : 673728
+	},
+	"t1.freegradely.xyz" : {
+		"totalUploadBytes" : 13347488,
+		"totalDownloadBytes" : 40202863
+	},
+	"45.77.110.79" : {
+		"totalUploadBytes" : 3583590,
+		"totalDownloadBytes" : 161782631
+	},
+	"t3.freegradely.xyz" : {
+		"totalUploadBytes" : 64313,
+		"totalDownloadBytes" : 37440
+	}
+}
